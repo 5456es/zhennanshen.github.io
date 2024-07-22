@@ -12,7 +12,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://5456es.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://5456es.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "A CS student"
   location         : "Earth"
   employer         : "Red Brick University"
-  uri              : https://5456es.github.io/
+  uri              : 
   email            : "1641225799szn@gmail.com" 
 
   # Academic websites
